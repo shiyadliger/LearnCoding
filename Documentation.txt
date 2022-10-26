@@ -1,0 +1,13 @@
+Welcome onboard,
+
+This project is a simple project for those who are new to the coding world. To be specific this project exclusively developed for Hackoctober Fest 2022 participation.
+
+Developed a login page with HTML and also used css for styling the login page.
+
+This project is perfect playground for beginners to explore their coding skills.
+
+Hope this document help all to get information about this project.
+
+Please update the documentation file according to the new advancement in project.
+
+Happy Hacking
